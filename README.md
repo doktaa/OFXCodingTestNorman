@@ -2,6 +2,7 @@
 
 ### ASSUMPTIONS
 - As per instructions to store quotes/transfers in memory, this is assumed to be valid by using static data structures as a form of memory.
+- As per instrucitons, creating a transfer should set the status to 'Processing' by default
 - When creating a transfer, account number should have validation checking for numeric characters only, and return appropriate validation prompts
 - When creating a transfer, assume that Payer and Recipient information does not need to reflect existing entities, and that provided ID's and information is assumed to be correct if valid
 - Exchange rate caching : Only rates based on sell-buy currencies will be cached, and will exclude context of rate datetime as well as converted amount. If we are caching the spotrate datetimes of rates as well as amounts converted, there is a very low chance that cache data will be re-accessed, thus defeating its purpose.
