@@ -11,3 +11,4 @@
 - Validation currently exists in their respective services. There is opportunity to refactor such that validation can happen as an extension method of DTO classes or individual IValidator implementations.
 - Global exception handling
 - Minor: Validation error messages can be moved to their own constant classes, so that it can be referencced in both code as well as tests. This will also enable more specific testing for exception assertions in tests.
+- Controller/integration tests would be great to add, to test e2e behaviour starting from making the HTTP request including the payload details
