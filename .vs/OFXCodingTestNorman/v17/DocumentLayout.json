@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Norman\\Development\\OFXCodingTestNorman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6659B05-45ED-422D-9F7D-084B73A22797}|OFXCodingTest.Tests\\OFXCodingTest.Tests.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest.tests\\transfertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6659B05-45ED-422D-9F7D-084B73A22797}|OFXCodingTest.Tests\\OFXCodingTest.Tests.csproj|solutionrelative:ofxcodingtest.tests\\transfertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\services\\rates\\publicratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\services\\rates\\publicratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\services\\rates\\inmemoryratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\services\\rates\\inmemoryratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\mockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\mockdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\services\\rates\\iratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\services\\rates\\iratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\services\\transfers\\transfersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\services\\transfers\\transfersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|d:\\norman\\development\\ofxcodingtestnorman\\ofxcodingtest\\models\\dto\\transfer\\transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B107E56-6269-455B-8ABE-422D8DD807F0}|OFXCodingTest\\OFXCodingTest.csproj|solutionrelative:ofxcodingtest\\models\\dto\\transfer\\transfers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Models\\Rate.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Models\\Rate.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Models\\Rate.cs",
+              "RelativeToolTip": "OFXCodingTest\\Models\\Rate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:28:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryRatesService.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\InMemoryRatesService.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Services\\Rates\\InMemoryRatesService.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\InMemoryRatesService.cs",
+              "RelativeToolTip": "OFXCodingTest\\Services\\Rates\\InMemoryRatesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:43:12.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRatesService.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\IRatesService.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Services\\Rates\\IRatesService.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\IRatesService.cs",
+              "RelativeToolTip": "OFXCodingTest\\Services\\Rates\\IRatesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:22:09.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicRatesService.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\PublicRatesService.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Services\\Rates\\PublicRatesService.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Rates\\PublicRatesService.cs",
+              "RelativeToolTip": "OFXCodingTest\\Services\\Rates\\PublicRatesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:21:54.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockDataStore.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\MockDataStore.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\MockDataStore.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\MockDataStore.cs",
+              "RelativeToolTip": "OFXCodingTest\\MockDataStore.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAtwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:57:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransfersService.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Transfers\\TransfersService.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Services\\Transfers\\TransfersService.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Services\\Transfers\\TransfersService.cs",
+              "RelativeToolTip": "OFXCodingTest\\Services\\Transfers\\TransfersService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:33:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transfers.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Models\\DTO\\Transfer\\Transfers.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Models\\DTO\\Transfer\\Transfers.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Models\\DTO\\Transfer\\Transfers.cs",
+              "RelativeToolTip": "OFXCodingTest\\Models\\DTO\\Transfer\\Transfers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:49:47.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferTests.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest.Tests\\TransferTests.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest.Tests\\TransferTests.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest.Tests\\TransferTests.cs",
+              "RelativeToolTip": "OFXCodingTest.Tests\\TransferTests.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowIwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:35:31.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "OFXCodingTest\\Controllers\\TransfersController.cs",
+              "ToolTip": "D:\\Norman\\Development\\OFXCodingTestNorman\\OFXCodingTest\\Controllers\\TransfersController.cs",
+              "RelativeToolTip": "OFXCodingTest\\Controllers\\TransfersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:54:09.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
